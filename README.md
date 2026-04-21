@@ -31,7 +31,7 @@ Analysis of RNA-seq data to investigate gene expression changes in canine cancer
 
 **Tools used:**
 - Python (data processing and analysis)  
-- Data visualization libraries (e.g., matplotlib, seaborn)  
+- Data visualization libraries (e.g., matplotlib)  
 
 👉 This project focuses on understanding how viral infection impacts cellular pathways, with emphasis on immune response-related genes.
 

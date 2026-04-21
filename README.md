@@ -10,7 +10,7 @@ Hi! I'm a veterinary doctor and data science student aspiring bioinformatician f
 
 - 🌱 Transitioning into Bioinformatics  
 - 💻 Learning Python and R for genomics and data analysis  
-- 🧬 Interested in RNA-seq, gene expression, and genomics  
+- 🧬 Interested in NGS, RNA-seq, gene expression, and genomics  
 - 🌿 Passionate about animal biodiversity and conservation  
 - 🎯 Goal: Work in biotech or research combining data + biology  
 

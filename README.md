@@ -2,7 +2,7 @@
 
 **Bioinformatics | Genomics | Biodiversity**
 
-Hi! I'm a Brazilian aspiring bioinformatician focused on building a career in genomics and biodiversity, with a long-term goal of building a stable career in Europe 🇳🇱.
+Hi! I'm a veterinary doctor and data science student aspiring bioinformatician focused on building a career in genomics and biodiversity, with a long-term goal of building a stable career in Europe.
 
 ---
 

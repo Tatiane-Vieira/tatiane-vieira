@@ -1,61 +1,45 @@
 ## 👩‍🔬 Tatiane Vieira
 
-**Bioinformatics | Genomics | Biodiversity**
+**Bioinformatics | Genomics | Antimicrobial Resistance (AMR)**
 
-Hi! I'm a veterinary doctor and data science student aspiring bioinformatician focused on building a career in genomics and biodiversity, with a long-term goal of building a stable career in Europe.
+Hi! I am a **Veterinary Doctor (DVM)**, **Data Science student**, and **aspiring Bioinformatician** focused on building a career in genomics, host-pathogen dynamics, and alternative therapies to tackle **Antimicrobial Resistance (AMR)**, with a long-term goal of building a research career in Europe.
 
 ---
 
 ## 🧬 About Me
 
-- 🌱 Transitioning into Bioinformatics  
-- 💻 Learning Python and R for genomics and data analysis  
-- 🧬 Interested in NGS, RNA-seq, gene expression, and genomics  
-- 🌿 Passionate about animal biodiversity and conservation  
-- 🎯 Goal: Work in biotech or research combining data + biology  
+* 🩺 **Clinical Veterinary Background:** Hands-on understanding of infectious diseases, animal health, and the *One Health* framework.
+* 🌱 **Bioinformatics Transition:** Applying computational biology to solve molecular and microbiological challenges.
+* 💻 **Technical Stack:** Python, R, Linux command line, and Git/GitHub for genomic and data analyses.
+* 🧪 **Research Collaborations:** Gaining hands-on experience in applied molecular biology (Oswaldo Cruz Institute/Brazil).
+* 🎯 **Goal:** Master's/Ph.D. research in phage biology, genomic mechanisms of AMR, and bioinformatic pipelines.
 
 ---
 
 ## 🚀 Projects
 
-### 🧬 RNA-seq Analysis of Viral Infection in Canine Cancer Cells (Python)
+## 🚀 Key Projects
 
+### 🧬 [RNA-seq Analysis of Viral Infection in Canine Cancer Cells](https://github.com/Tatiane-Vieira) *(Python)*
 Analysis of RNA-seq data to investigate gene expression changes in canine cancer cells following viral infection.
+* **Key Focus:** Data processing, differential gene expression (DEG) analysis, and functional interpretation of immune-response pathways.
+* **Tools & Libraries:** Python, Pandas, Matplotlib, Seaborn (Volcano plots, heatmaps).
+* **Relevance:** This project focuses on understanding how viral infection impacts cellular pathways, with emphasis on immune response-related genes.
 
-**Key components:**
-- Processing and handling RNA-seq data  
-- Differential gene expression analysis  
-- Identification of upregulated and downregulated genes  
-- Data visualization (volcano plot, expression patterns)  
-- Biological interpretation of results  
-
-**Tools used:**
-- Python (data processing and analysis)  
-- Data visualization libraries (e.g., matplotlib)  
-
-👉 This project focuses on understanding how viral infection impacts cellular pathways, with emphasis on immune response-related genes.
-
----
-
-### 🌿 Biodiversity Genomics *(in progress)*
-
-Exploring genetic diversity across species using real biological datasets.
-
-**Planned focus:**
-- Sequence comparison  
-- Data visualization (R & Python)  
-- Introductory phylogenetics  
+### 🚢 [Titanic Machine Learning Project](https://github.com/Tatiane-Vieira/titanic-machine-learning-project) *(Python)*
+End-to-end data science and predictive modeling workflow using the classic Titanic dataset.
+* **Key Focus:** Exploratory Data Analysis (EDA), feature engineering, handling missing values, and binary classification modeling.
+* **Tools & Libraries:** Python, Scikit-Learn, Pandas, NumPy.
+* **Relevance:** Showcases core Data Science principles, statistical understanding, and machine learning fundamentals.
 
 ---
 
 ## 🛠️ Skills in Progress
 
-- Python for Bioinformatics 🐍  
-- R for Data Analysis & Visualization 📊  
-- RNA-seq Analysis 🧬  
-- Genomic Data Interpretation  
-- Linux & Command Line 💻  
-- Git & GitHub 🌐  
+* **Languages & Environments:** Python | R | Bash / Linux Command Line 
+* **Data & Genomics:** RNA-seq / Transcriptomics | Differential Expression | Data Visualization 
+* **Data Science:** Data Cleaning| Exploratory Data Analysis (EDA) | Machine Learning Fundamentals 
+* **Version Control:** Git & GitHub 
 
 ---
 
@@ -74,15 +58,12 @@ Currently following structured learning paths, including courses from institutio
 
 ---
 
-## 📌 Long-Term Vision
+## 🎯 Research & Career Interests
 
-Build a career that combines:
-
-- 💻 Data & technology  
-- 🧬 Genomics & bioinformatics  
-- 🌿 Environmental and biological impact  
-
-With a focus on stability, continuous growth, and meaningful scientific contribution.
+* **Bacterial Evolution & AMR Mechanisms:** Uncovering how pathogens adapt, acquire resistance, and respond to environmental stressors.
+* **Host-Pathogen Interactions & Vulnerabilities:** Identifying key metabolic pathways and cellular targets for non-traditional interventions.
+* **Innovative Alternative Therapies:** Exploring biological and molecular strategies (e.g., antimicrobials, bacteriocins, phage-derived particles) to overcome resistance.
+* **One Health Genomics:** Integrating veterinary clinical insights with computational tools to study antimicrobial resistance at the interface of animal, human, and environmental health.
 
 ---
 

@@ -18,8 +18,6 @@ Hi! I am a **Veterinary Doctor (DVM)**, **Data Science student**, and **aspiring
 
 ## 🚀 Projects
 
-## 🚀 Key Projects
-
 ### 🧬 [RNA-seq Analysis of Viral Infection in Canine Cancer Cells](https://github.com/Tatiane-Vieira) *(Python)*
 Analysis of RNA-seq data to investigate gene expression changes in canine cancer cells following viral infection.
 * **Key Focus:** Data processing, differential gene expression (DEG) analysis, and functional interpretation of immune-response pathways.

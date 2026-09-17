@@ -67,10 +67,7 @@ Currently following structured learning paths, including courses from institutio
 
 ## 🤝 Let's Connect
 
-I'm open to:
-- Entry-level opportunities  
-- Internships  
-- Collaborations in bioinformatics and genomics  
+- I am actively seeking **Master's degree opportunities**, academic research collaborations, and internships in Bioinformatics, AMR, and Microbial Genomics.
 
 ---
 
